@@ -1,4 +1,4 @@
-# Hey 👋 ,I'm  Mangesh Sali..
+# Hey 👋 ,I'm  Mangesh!..
 
 
 - 👋 Hi, I’m @mangeshsali
