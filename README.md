@@ -5,16 +5,19 @@
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Web Development.
 
-<!---
-mangeshsali/mangeshsali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/CSS/css.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+## 🚀 Languages and Tools:
+
+<p align="left">
+
+
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+<a href="https://python.org/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.subpng.com%2Fpng-6c10oh%2F&psig=AOvVaw2W0NrOv2Gcj29HqNyuK4Q2&ust=1641479481471000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKD5wuLpmvUCFQAAAAAdAAAAABAD"/> </a>
+  <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffavpng.com%2Fpng_view%2Fprogrammer-the-c-programming-language-computer-programming-png%2FGPQPnuGR&psig=AOvVaw1ScD5AAWSBB8nX2vSiqk9o&ust=1641479409226000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiuocnpmvUCFQAAAAAdAAAAABAI"/> </a>
+
+</p>
+
+<br/>
   
