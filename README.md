@@ -22,11 +22,15 @@
 
 <p align="center">
     <a>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangeshsali&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=mangeshsali&theme=neon-dark&date_format=%5BY.%5Dn.j" alt="mangesh sali"/>
     </a>
-</p>  
-  
 </p>
+
+# Connect with me:-
+<p align="left">
+<a href = "https://twitter.com/mangesh_sali16"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/mangesh-sali-535b55224/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/mangesh._.sali16/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 <br/>
   
