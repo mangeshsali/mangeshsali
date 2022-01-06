@@ -1,11 +1,12 @@
-# Hey 👋 ,I'm  Mangesh!..
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Mangesh</h1>
+
 
 
 - 👋 Hi, I’m @mangeshsali
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Web Development.
 
-## 🧰 Languages and Tools:
+
 ## 🚀 Languages and Tools:
 
 <p align="left">
