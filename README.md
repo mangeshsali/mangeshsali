@@ -1,17 +1,17 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Mangesh</h1>
 
 
-<p>
+
 - 👋 Hi, I’m @mangeshsali
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Web Development.
-</p>
 
-<br>
+
+
 
 
 ## 🚀 Languages and Tools:
-<br>
+
 <p align="left">
 
 
@@ -29,10 +29,9 @@
     </a>
 </p>
 
-<br>
 
 # Connect with me:-
-<br>
+
 <p align="left">
 <a href = "https://twitter.com/mangesh_sali16"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
 <a href = "https://www.linkedin.com/in/mangesh-sali-535b55224/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
