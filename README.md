@@ -17,6 +17,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 <a href="https://python.org/" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/python.png"/> </a>
   <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
+ <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/>
 
 </p>
 
